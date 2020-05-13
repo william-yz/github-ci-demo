@@ -1,0 +1,28 @@
+{
+  "name": "github-ci-demo",
+  "version": "1.0.0",
+  "description": "Github CI demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "cov": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/william-yz/github-ci-demo.git"
+  },
+  "keywords": [
+    "github",
+    "ci",
+    "demo"
+  ],
+  "author": "William\tYangg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/william-yz/github-ci-demo/issues"
+  },
+  "homepage": "https://github.com/william-yz/github-ci-demo#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
